@@ -1,0 +1,4 @@
+Sequential
+109647
+Parallel
+29056

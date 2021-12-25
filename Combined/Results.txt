@@ -1,0 +1,680 @@
+bottled water,soda,whole milk
+bottled water,soda,butter
+bottled water,soda,citrus fruit
+bottled water,soda,other vegetables
+bottled water,soda,domestic eggs
+bottled water,soda,fruit/vegetable juice
+bottled water,soda,newspapers
+bottled water,soda,rolls/buns
+bottled water,soda,root vegetables
+bottled water,soda,sausage
+bottled water,soda,tropical fruit
+bottled water,soda,whipped/sour cream
+bottled water,soda,yogurt
+bottled water,soda,pastry
+bottled water,soda,pip fruit
+bottled water,whole milk,butter
+bottled water,whole milk,citrus fruit
+bottled water,whole milk,other vegetables
+bottled water,whole milk,domestic eggs
+bottled water,whole milk,fruit/vegetable juice
+bottled water,whole milk,newspapers
+bottled water,whole milk,rolls/buns
+bottled water,whole milk,root vegetables
+bottled water,whole milk,sausage
+bottled water,whole milk,tropical fruit
+bottled water,whole milk,whipped/sour cream
+bottled water,whole milk,yogurt
+bottled water,whole milk,pastry
+bottled water,whole milk,pip fruit
+bottled water,butter,citrus fruit
+bottled water,butter,other vegetables
+bottled water,butter,domestic eggs
+bottled water,butter,fruit/vegetable juice
+bottled water,butter,newspapers
+bottled water,butter,rolls/buns
+bottled water,butter,root vegetables
+bottled water,butter,sausage
+bottled water,butter,tropical fruit
+bottled water,butter,whipped/sour cream
+bottled water,butter,yogurt
+bottled water,butter,pastry
+bottled water,butter,pip fruit
+bottled water,citrus fruit,other vegetables
+bottled water,citrus fruit,domestic eggs
+bottled water,citrus fruit,fruit/vegetable juice
+bottled water,citrus fruit,newspapers
+bottled water,citrus fruit,rolls/buns
+bottled water,citrus fruit,root vegetables
+bottled water,citrus fruit,sausage
+bottled water,citrus fruit,tropical fruit
+bottled water,citrus fruit,whipped/sour cream
+bottled water,citrus fruit,yogurt
+bottled water,citrus fruit,pastry
+bottled water,citrus fruit,pip fruit
+bottled water,other vegetables,domestic eggs
+bottled water,other vegetables,fruit/vegetable juice
+bottled water,other vegetables,newspapers
+bottled water,other vegetables,rolls/buns
+bottled water,other vegetables,root vegetables
+bottled water,other vegetables,sausage
+bottled water,other vegetables,tropical fruit
+bottled water,other vegetables,whipped/sour cream
+bottled water,other vegetables,yogurt
+bottled water,other vegetables,pastry
+bottled water,other vegetables,pip fruit
+bottled water,domestic eggs,fruit/vegetable juice
+bottled water,domestic eggs,newspapers
+bottled water,domestic eggs,rolls/buns
+bottled water,domestic eggs,root vegetables
+bottled water,domestic eggs,sausage
+bottled water,domestic eggs,tropical fruit
+bottled water,domestic eggs,whipped/sour cream
+bottled water,domestic eggs,yogurt
+bottled water,domestic eggs,pastry
+bottled water,domestic eggs,pip fruit
+bottled water,fruit/vegetable juice,newspapers
+bottled water,fruit/vegetable juice,rolls/buns
+bottled water,fruit/vegetable juice,root vegetables
+bottled water,fruit/vegetable juice,sausage
+bottled water,fruit/vegetable juice,tropical fruit
+bottled water,fruit/vegetable juice,whipped/sour cream
+bottled water,fruit/vegetable juice,yogurt
+bottled water,fruit/vegetable juice,pastry
+bottled water,fruit/vegetable juice,pip fruit
+bottled water,newspapers,rolls/buns
+bottled water,newspapers,root vegetables
+bottled water,newspapers,sausage
+bottled water,newspapers,tropical fruit
+bottled water,newspapers,whipped/sour cream
+bottled water,newspapers,yogurt
+bottled water,newspapers,pastry
+bottled water,newspapers,pip fruit
+bottled water,rolls/buns,root vegetables
+bottled water,rolls/buns,sausage
+bottled water,rolls/buns,tropical fruit
+bottled water,rolls/buns,whipped/sour cream
+bottled water,rolls/buns,yogurt
+bottled water,rolls/buns,pastry
+bottled water,rolls/buns,pip fruit
+bottled water,root vegetables,sausage
+bottled water,root vegetables,tropical fruit
+bottled water,root vegetables,whipped/sour cream
+bottled water,root vegetables,yogurt
+bottled water,root vegetables,pastry
+bottled water,root vegetables,pip fruit
+bottled water,sausage,tropical fruit
+bottled water,sausage,whipped/sour cream
+bottled water,sausage,yogurt
+bottled water,sausage,pastry
+bottled water,sausage,pip fruit
+bottled water,tropical fruit,whipped/sour cream
+bottled water,tropical fruit,yogurt
+bottled water,tropical fruit,pastry
+bottled water,tropical fruit,pip fruit
+bottled water,whipped/sour cream,yogurt
+bottled water,whipped/sour cream,pastry
+bottled water,whipped/sour cream,pip fruit
+bottled water,yogurt,pastry
+bottled water,yogurt,pip fruit
+bottled water,pastry,pip fruit
+soda,whole milk,butter
+soda,whole milk,citrus fruit
+soda,whole milk,other vegetables
+soda,whole milk,domestic eggs
+soda,whole milk,fruit/vegetable juice
+soda,whole milk,newspapers
+soda,whole milk,rolls/buns
+soda,whole milk,root vegetables
+soda,whole milk,sausage
+soda,whole milk,tropical fruit
+soda,whole milk,whipped/sour cream
+soda,whole milk,yogurt
+soda,whole milk,pastry
+soda,whole milk,pip fruit
+soda,butter,citrus fruit
+soda,butter,other vegetables
+soda,butter,domestic eggs
+soda,butter,fruit/vegetable juice
+soda,butter,newspapers
+soda,butter,rolls/buns
+soda,butter,root vegetables
+soda,butter,sausage
+soda,butter,tropical fruit
+soda,butter,whipped/sour cream
+soda,butter,yogurt
+soda,butter,pastry
+soda,butter,pip fruit
+soda,citrus fruit,other vegetables
+soda,citrus fruit,domestic eggs
+soda,citrus fruit,fruit/vegetable juice
+soda,citrus fruit,newspapers
+soda,citrus fruit,rolls/buns
+soda,citrus fruit,root vegetables
+soda,citrus fruit,sausage
+soda,citrus fruit,tropical fruit
+soda,citrus fruit,whipped/sour cream
+soda,citrus fruit,yogurt
+soda,citrus fruit,pastry
+soda,citrus fruit,pip fruit
+soda,other vegetables,domestic eggs
+soda,other vegetables,fruit/vegetable juice
+soda,other vegetables,newspapers
+soda,other vegetables,rolls/buns
+soda,other vegetables,root vegetables
+soda,other vegetables,sausage
+soda,other vegetables,tropical fruit
+soda,other vegetables,whipped/sour cream
+soda,other vegetables,yogurt
+soda,other vegetables,pastry
+soda,other vegetables,pip fruit
+soda,domestic eggs,fruit/vegetable juice
+soda,domestic eggs,newspapers
+soda,domestic eggs,rolls/buns
+soda,domestic eggs,root vegetables
+soda,domestic eggs,sausage
+soda,domestic eggs,tropical fruit
+soda,domestic eggs,whipped/sour cream
+soda,domestic eggs,yogurt
+soda,domestic eggs,pastry
+soda,domestic eggs,pip fruit
+soda,fruit/vegetable juice,newspapers
+soda,fruit/vegetable juice,rolls/buns
+soda,fruit/vegetable juice,root vegetables
+soda,fruit/vegetable juice,sausage
+soda,fruit/vegetable juice,tropical fruit
+soda,fruit/vegetable juice,whipped/sour cream
+soda,fruit/vegetable juice,yogurt
+soda,fruit/vegetable juice,pastry
+soda,fruit/vegetable juice,pip fruit
+soda,newspapers,rolls/buns
+soda,newspapers,root vegetables
+soda,newspapers,sausage
+soda,newspapers,tropical fruit
+soda,newspapers,whipped/sour cream
+soda,newspapers,yogurt
+soda,newspapers,pastry
+soda,newspapers,pip fruit
+soda,rolls/buns,root vegetables
+soda,rolls/buns,sausage
+soda,rolls/buns,tropical fruit
+soda,rolls/buns,whipped/sour cream
+soda,rolls/buns,yogurt
+soda,rolls/buns,pastry
+soda,rolls/buns,pip fruit
+soda,root vegetables,sausage
+soda,root vegetables,tropical fruit
+soda,root vegetables,whipped/sour cream
+soda,root vegetables,yogurt
+soda,root vegetables,pastry
+soda,root vegetables,pip fruit
+soda,sausage,tropical fruit
+soda,sausage,whipped/sour cream
+soda,sausage,yogurt
+soda,sausage,pastry
+soda,sausage,pip fruit
+soda,tropical fruit,whipped/sour cream
+soda,tropical fruit,yogurt
+soda,tropical fruit,pastry
+soda,tropical fruit,pip fruit
+soda,whipped/sour cream,yogurt
+soda,whipped/sour cream,pastry
+soda,whipped/sour cream,pip fruit
+soda,yogurt,pastry
+soda,yogurt,pip fruit
+soda,pastry,pip fruit
+whole milk,butter,citrus fruit
+whole milk,butter,other vegetables
+whole milk,butter,domestic eggs
+whole milk,butter,fruit/vegetable juice
+whole milk,butter,newspapers
+whole milk,butter,rolls/buns
+whole milk,butter,root vegetables
+whole milk,butter,sausage
+whole milk,butter,tropical fruit
+whole milk,butter,whipped/sour cream
+whole milk,butter,yogurt
+whole milk,butter,pastry
+whole milk,butter,pip fruit
+whole milk,citrus fruit,other vegetables
+whole milk,citrus fruit,domestic eggs
+whole milk,citrus fruit,fruit/vegetable juice
+whole milk,citrus fruit,newspapers
+whole milk,citrus fruit,rolls/buns
+whole milk,citrus fruit,root vegetables
+whole milk,citrus fruit,sausage
+whole milk,citrus fruit,tropical fruit
+whole milk,citrus fruit,whipped/sour cream
+whole milk,citrus fruit,yogurt
+whole milk,citrus fruit,pastry
+whole milk,citrus fruit,pip fruit
+whole milk,other vegetables,domestic eggs
+whole milk,other vegetables,fruit/vegetable juice
+whole milk,other vegetables,newspapers
+whole milk,other vegetables,rolls/buns
+whole milk,other vegetables,root vegetables
+whole milk,other vegetables,sausage
+whole milk,other vegetables,tropical fruit
+whole milk,other vegetables,whipped/sour cream
+whole milk,other vegetables,yogurt
+whole milk,other vegetables,pastry
+whole milk,other vegetables,pip fruit
+whole milk,domestic eggs,fruit/vegetable juice
+whole milk,domestic eggs,newspapers
+whole milk,domestic eggs,rolls/buns
+whole milk,domestic eggs,root vegetables
+whole milk,domestic eggs,sausage
+whole milk,domestic eggs,tropical fruit
+whole milk,domestic eggs,whipped/sour cream
+whole milk,domestic eggs,yogurt
+whole milk,domestic eggs,pastry
+whole milk,domestic eggs,pip fruit
+whole milk,fruit/vegetable juice,newspapers
+whole milk,fruit/vegetable juice,rolls/buns
+whole milk,fruit/vegetable juice,root vegetables
+whole milk,fruit/vegetable juice,sausage
+whole milk,fruit/vegetable juice,tropical fruit
+whole milk,fruit/vegetable juice,whipped/sour cream
+whole milk,fruit/vegetable juice,yogurt
+whole milk,fruit/vegetable juice,pastry
+whole milk,fruit/vegetable juice,pip fruit
+whole milk,newspapers,rolls/buns
+whole milk,newspapers,root vegetables
+whole milk,newspapers,sausage
+whole milk,newspapers,tropical fruit
+whole milk,newspapers,whipped/sour cream
+whole milk,newspapers,yogurt
+whole milk,newspapers,pastry
+whole milk,newspapers,pip fruit
+whole milk,rolls/buns,root vegetables
+whole milk,rolls/buns,sausage
+whole milk,rolls/buns,tropical fruit
+whole milk,rolls/buns,whipped/sour cream
+whole milk,rolls/buns,yogurt
+whole milk,rolls/buns,pastry
+whole milk,rolls/buns,pip fruit
+whole milk,root vegetables,sausage
+whole milk,root vegetables,tropical fruit
+whole milk,root vegetables,whipped/sour cream
+whole milk,root vegetables,yogurt
+whole milk,root vegetables,pastry
+whole milk,root vegetables,pip fruit
+whole milk,sausage,tropical fruit
+whole milk,sausage,whipped/sour cream
+whole milk,sausage,yogurt
+whole milk,sausage,pastry
+whole milk,sausage,pip fruit
+whole milk,tropical fruit,whipped/sour cream
+whole milk,tropical fruit,yogurt
+whole milk,tropical fruit,pastry
+whole milk,tropical fruit,pip fruit
+whole milk,whipped/sour cream,yogurt
+whole milk,whipped/sour cream,pastry
+whole milk,whipped/sour cream,pip fruit
+whole milk,yogurt,pastry
+whole milk,yogurt,pip fruit
+whole milk,pastry,pip fruit
+butter,citrus fruit,other vegetables
+butter,citrus fruit,domestic eggs
+butter,citrus fruit,fruit/vegetable juice
+butter,citrus fruit,newspapers
+butter,citrus fruit,rolls/buns
+butter,citrus fruit,root vegetables
+butter,citrus fruit,sausage
+butter,citrus fruit,tropical fruit
+butter,citrus fruit,whipped/sour cream
+butter,citrus fruit,yogurt
+butter,citrus fruit,pastry
+butter,citrus fruit,pip fruit
+butter,other vegetables,domestic eggs
+butter,other vegetables,fruit/vegetable juice
+butter,other vegetables,newspapers
+butter,other vegetables,rolls/buns
+butter,other vegetables,root vegetables
+butter,other vegetables,sausage
+butter,other vegetables,tropical fruit
+butter,other vegetables,whipped/sour cream
+butter,other vegetables,yogurt
+butter,other vegetables,pastry
+butter,other vegetables,pip fruit
+butter,domestic eggs,fruit/vegetable juice
+butter,domestic eggs,newspapers
+butter,domestic eggs,rolls/buns
+butter,domestic eggs,root vegetables
+butter,domestic eggs,sausage
+butter,domestic eggs,tropical fruit
+butter,domestic eggs,whipped/sour cream
+butter,domestic eggs,yogurt
+butter,domestic eggs,pastry
+butter,domestic eggs,pip fruit
+butter,fruit/vegetable juice,newspapers
+butter,fruit/vegetable juice,rolls/buns
+butter,fruit/vegetable juice,root vegetables
+butter,fruit/vegetable juice,sausage
+butter,fruit/vegetable juice,tropical fruit
+butter,fruit/vegetable juice,whipped/sour cream
+butter,fruit/vegetable juice,yogurt
+butter,fruit/vegetable juice,pastry
+butter,fruit/vegetable juice,pip fruit
+butter,newspapers,rolls/buns
+butter,newspapers,root vegetables
+butter,newspapers,sausage
+butter,newspapers,tropical fruit
+butter,newspapers,whipped/sour cream
+butter,newspapers,yogurt
+butter,newspapers,pastry
+butter,newspapers,pip fruit
+butter,rolls/buns,root vegetables
+butter,rolls/buns,sausage
+butter,rolls/buns,tropical fruit
+butter,rolls/buns,whipped/sour cream
+butter,rolls/buns,yogurt
+butter,rolls/buns,pastry
+butter,rolls/buns,pip fruit
+butter,root vegetables,sausage
+butter,root vegetables,tropical fruit
+butter,root vegetables,whipped/sour cream
+butter,root vegetables,yogurt
+butter,root vegetables,pastry
+butter,root vegetables,pip fruit
+butter,sausage,tropical fruit
+butter,sausage,whipped/sour cream
+butter,sausage,yogurt
+butter,sausage,pastry
+butter,sausage,pip fruit
+butter,tropical fruit,whipped/sour cream
+butter,tropical fruit,yogurt
+butter,tropical fruit,pastry
+butter,tropical fruit,pip fruit
+butter,whipped/sour cream,yogurt
+butter,whipped/sour cream,pastry
+butter,whipped/sour cream,pip fruit
+butter,yogurt,pastry
+butter,yogurt,pip fruit
+butter,pastry,pip fruit
+citrus fruit,other vegetables,domestic eggs
+citrus fruit,other vegetables,fruit/vegetable juice
+citrus fruit,other vegetables,newspapers
+citrus fruit,other vegetables,rolls/buns
+citrus fruit,other vegetables,root vegetables
+citrus fruit,other vegetables,sausage
+citrus fruit,other vegetables,tropical fruit
+citrus fruit,other vegetables,whipped/sour cream
+citrus fruit,other vegetables,yogurt
+citrus fruit,other vegetables,pastry
+citrus fruit,other vegetables,pip fruit
+citrus fruit,domestic eggs,fruit/vegetable juice
+citrus fruit,domestic eggs,newspapers
+citrus fruit,domestic eggs,rolls/buns
+citrus fruit,domestic eggs,root vegetables
+citrus fruit,domestic eggs,sausage
+citrus fruit,domestic eggs,tropical fruit
+citrus fruit,domestic eggs,whipped/sour cream
+citrus fruit,domestic eggs,yogurt
+citrus fruit,domestic eggs,pastry
+citrus fruit,domestic eggs,pip fruit
+citrus fruit,fruit/vegetable juice,newspapers
+citrus fruit,fruit/vegetable juice,rolls/buns
+citrus fruit,fruit/vegetable juice,root vegetables
+citrus fruit,fruit/vegetable juice,sausage
+citrus fruit,fruit/vegetable juice,tropical fruit
+citrus fruit,fruit/vegetable juice,whipped/sour cream
+citrus fruit,fruit/vegetable juice,yogurt
+citrus fruit,fruit/vegetable juice,pastry
+citrus fruit,fruit/vegetable juice,pip fruit
+citrus fruit,newspapers,rolls/buns
+citrus fruit,newspapers,root vegetables
+citrus fruit,newspapers,sausage
+citrus fruit,newspapers,tropical fruit
+citrus fruit,newspapers,whipped/sour cream
+citrus fruit,newspapers,yogurt
+citrus fruit,newspapers,pastry
+citrus fruit,newspapers,pip fruit
+citrus fruit,rolls/buns,root vegetables
+citrus fruit,rolls/buns,sausage
+citrus fruit,rolls/buns,tropical fruit
+citrus fruit,rolls/buns,whipped/sour cream
+citrus fruit,rolls/buns,yogurt
+citrus fruit,rolls/buns,pastry
+citrus fruit,rolls/buns,pip fruit
+citrus fruit,root vegetables,sausage
+citrus fruit,root vegetables,tropical fruit
+citrus fruit,root vegetables,whipped/sour cream
+citrus fruit,root vegetables,yogurt
+citrus fruit,root vegetables,pastry
+citrus fruit,root vegetables,pip fruit
+citrus fruit,sausage,tropical fruit
+citrus fruit,sausage,whipped/sour cream
+citrus fruit,sausage,yogurt
+citrus fruit,sausage,pastry
+citrus fruit,sausage,pip fruit
+citrus fruit,tropical fruit,whipped/sour cream
+citrus fruit,tropical fruit,yogurt
+citrus fruit,tropical fruit,pastry
+citrus fruit,tropical fruit,pip fruit
+citrus fruit,whipped/sour cream,yogurt
+citrus fruit,whipped/sour cream,pastry
+citrus fruit,whipped/sour cream,pip fruit
+citrus fruit,yogurt,pastry
+citrus fruit,yogurt,pip fruit
+citrus fruit,pastry,pip fruit
+other vegetables,domestic eggs,fruit/vegetable juice
+other vegetables,domestic eggs,newspapers
+other vegetables,domestic eggs,rolls/buns
+other vegetables,domestic eggs,root vegetables
+other vegetables,domestic eggs,sausage
+other vegetables,domestic eggs,tropical fruit
+other vegetables,domestic eggs,whipped/sour cream
+other vegetables,domestic eggs,yogurt
+other vegetables,domestic eggs,pastry
+other vegetables,domestic eggs,pip fruit
+other vegetables,fruit/vegetable juice,newspapers
+other vegetables,fruit/vegetable juice,rolls/buns
+other vegetables,fruit/vegetable juice,root vegetables
+other vegetables,fruit/vegetable juice,sausage
+other vegetables,fruit/vegetable juice,tropical fruit
+other vegetables,fruit/vegetable juice,whipped/sour cream
+other vegetables,fruit/vegetable juice,yogurt
+other vegetables,fruit/vegetable juice,pastry
+other vegetables,fruit/vegetable juice,pip fruit
+other vegetables,newspapers,rolls/buns
+other vegetables,newspapers,root vegetables
+other vegetables,newspapers,sausage
+other vegetables,newspapers,tropical fruit
+other vegetables,newspapers,whipped/sour cream
+other vegetables,newspapers,yogurt
+other vegetables,newspapers,pastry
+other vegetables,newspapers,pip fruit
+other vegetables,rolls/buns,root vegetables
+other vegetables,rolls/buns,sausage
+other vegetables,rolls/buns,tropical fruit
+other vegetables,rolls/buns,whipped/sour cream
+other vegetables,rolls/buns,yogurt
+other vegetables,rolls/buns,pastry
+other vegetables,rolls/buns,pip fruit
+other vegetables,root vegetables,sausage
+other vegetables,root vegetables,tropical fruit
+other vegetables,root vegetables,whipped/sour cream
+other vegetables,root vegetables,yogurt
+other vegetables,root vegetables,pastry
+other vegetables,root vegetables,pip fruit
+other vegetables,sausage,tropical fruit
+other vegetables,sausage,whipped/sour cream
+other vegetables,sausage,yogurt
+other vegetables,sausage,pastry
+other vegetables,sausage,pip fruit
+other vegetables,tropical fruit,whipped/sour cream
+other vegetables,tropical fruit,yogurt
+other vegetables,tropical fruit,pastry
+other vegetables,tropical fruit,pip fruit
+other vegetables,whipped/sour cream,yogurt
+other vegetables,whipped/sour cream,pastry
+other vegetables,whipped/sour cream,pip fruit
+other vegetables,yogurt,pastry
+other vegetables,yogurt,pip fruit
+other vegetables,pastry,pip fruit
+domestic eggs,fruit/vegetable juice,newspapers
+domestic eggs,fruit/vegetable juice,rolls/buns
+domestic eggs,fruit/vegetable juice,root vegetables
+domestic eggs,fruit/vegetable juice,sausage
+domestic eggs,fruit/vegetable juice,tropical fruit
+domestic eggs,fruit/vegetable juice,whipped/sour cream
+domestic eggs,fruit/vegetable juice,yogurt
+domestic eggs,fruit/vegetable juice,pastry
+domestic eggs,fruit/vegetable juice,pip fruit
+domestic eggs,newspapers,rolls/buns
+domestic eggs,newspapers,root vegetables
+domestic eggs,newspapers,sausage
+domestic eggs,newspapers,tropical fruit
+domestic eggs,newspapers,whipped/sour cream
+domestic eggs,newspapers,yogurt
+domestic eggs,newspapers,pastry
+domestic eggs,newspapers,pip fruit
+domestic eggs,rolls/buns,root vegetables
+domestic eggs,rolls/buns,sausage
+domestic eggs,rolls/buns,tropical fruit
+domestic eggs,rolls/buns,whipped/sour cream
+domestic eggs,rolls/buns,yogurt
+domestic eggs,rolls/buns,pastry
+domestic eggs,rolls/buns,pip fruit
+domestic eggs,root vegetables,sausage
+domestic eggs,root vegetables,tropical fruit
+domestic eggs,root vegetables,whipped/sour cream
+domestic eggs,root vegetables,yogurt
+domestic eggs,root vegetables,pastry
+domestic eggs,root vegetables,pip fruit
+domestic eggs,sausage,tropical fruit
+domestic eggs,sausage,whipped/sour cream
+domestic eggs,sausage,yogurt
+domestic eggs,sausage,pastry
+domestic eggs,sausage,pip fruit
+domestic eggs,tropical fruit,whipped/sour cream
+domestic eggs,tropical fruit,yogurt
+domestic eggs,tropical fruit,pastry
+domestic eggs,tropical fruit,pip fruit
+domestic eggs,whipped/sour cream,yogurt
+domestic eggs,whipped/sour cream,pastry
+domestic eggs,whipped/sour cream,pip fruit
+domestic eggs,yogurt,pastry
+domestic eggs,yogurt,pip fruit
+domestic eggs,pastry,pip fruit
+fruit/vegetable juice,newspapers,rolls/buns
+fruit/vegetable juice,newspapers,root vegetables
+fruit/vegetable juice,newspapers,sausage
+fruit/vegetable juice,newspapers,tropical fruit
+fruit/vegetable juice,newspapers,whipped/sour cream
+fruit/vegetable juice,newspapers,yogurt
+fruit/vegetable juice,newspapers,pastry
+fruit/vegetable juice,newspapers,pip fruit
+fruit/vegetable juice,rolls/buns,root vegetables
+fruit/vegetable juice,rolls/buns,sausage
+fruit/vegetable juice,rolls/buns,tropical fruit
+fruit/vegetable juice,rolls/buns,whipped/sour cream
+fruit/vegetable juice,rolls/buns,yogurt
+fruit/vegetable juice,rolls/buns,pastry
+fruit/vegetable juice,rolls/buns,pip fruit
+fruit/vegetable juice,root vegetables,sausage
+fruit/vegetable juice,root vegetables,tropical fruit
+fruit/vegetable juice,root vegetables,whipped/sour cream
+fruit/vegetable juice,root vegetables,yogurt
+fruit/vegetable juice,root vegetables,pastry
+fruit/vegetable juice,root vegetables,pip fruit
+fruit/vegetable juice,sausage,tropical fruit
+fruit/vegetable juice,sausage,whipped/sour cream
+fruit/vegetable juice,sausage,yogurt
+fruit/vegetable juice,sausage,pastry
+fruit/vegetable juice,sausage,pip fruit
+fruit/vegetable juice,tropical fruit,whipped/sour cream
+fruit/vegetable juice,tropical fruit,yogurt
+fruit/vegetable juice,tropical fruit,pastry
+fruit/vegetable juice,tropical fruit,pip fruit
+fruit/vegetable juice,whipped/sour cream,yogurt
+fruit/vegetable juice,whipped/sour cream,pastry
+fruit/vegetable juice,whipped/sour cream,pip fruit
+fruit/vegetable juice,yogurt,pastry
+fruit/vegetable juice,yogurt,pip fruit
+fruit/vegetable juice,pastry,pip fruit
+newspapers,rolls/buns,root vegetables
+newspapers,rolls/buns,sausage
+newspapers,rolls/buns,tropical fruit
+newspapers,rolls/buns,whipped/sour cream
+newspapers,rolls/buns,yogurt
+newspapers,rolls/buns,pastry
+newspapers,rolls/buns,pip fruit
+newspapers,root vegetables,sausage
+newspapers,root vegetables,tropical fruit
+newspapers,root vegetables,whipped/sour cream
+newspapers,root vegetables,yogurt
+newspapers,root vegetables,pastry
+newspapers,root vegetables,pip fruit
+newspapers,sausage,tropical fruit
+newspapers,sausage,whipped/sour cream
+newspapers,sausage,yogurt
+newspapers,sausage,pastry
+newspapers,sausage,pip fruit
+newspapers,tropical fruit,whipped/sour cream
+newspapers,tropical fruit,yogurt
+newspapers,tropical fruit,pastry
+newspapers,tropical fruit,pip fruit
+newspapers,whipped/sour cream,yogurt
+newspapers,whipped/sour cream,pastry
+newspapers,whipped/sour cream,pip fruit
+newspapers,yogurt,pastry
+newspapers,yogurt,pip fruit
+newspapers,pastry,pip fruit
+rolls/buns,root vegetables,sausage
+rolls/buns,root vegetables,tropical fruit
+rolls/buns,root vegetables,whipped/sour cream
+rolls/buns,root vegetables,yogurt
+rolls/buns,root vegetables,pastry
+rolls/buns,root vegetables,pip fruit
+rolls/buns,sausage,tropical fruit
+rolls/buns,sausage,whipped/sour cream
+rolls/buns,sausage,yogurt
+rolls/buns,sausage,pastry
+rolls/buns,sausage,pip fruit
+rolls/buns,tropical fruit,whipped/sour cream
+rolls/buns,tropical fruit,yogurt
+rolls/buns,tropical fruit,pastry
+rolls/buns,tropical fruit,pip fruit
+rolls/buns,whipped/sour cream,yogurt
+rolls/buns,whipped/sour cream,pastry
+rolls/buns,whipped/sour cream,pip fruit
+rolls/buns,yogurt,pastry
+rolls/buns,yogurt,pip fruit
+rolls/buns,pastry,pip fruit
+root vegetables,sausage,tropical fruit
+root vegetables,sausage,whipped/sour cream
+root vegetables,sausage,yogurt
+root vegetables,sausage,pastry
+root vegetables,sausage,pip fruit
+root vegetables,tropical fruit,whipped/sour cream
+root vegetables,tropical fruit,yogurt
+root vegetables,tropical fruit,pastry
+root vegetables,tropical fruit,pip fruit
+root vegetables,whipped/sour cream,yogurt
+root vegetables,whipped/sour cream,pastry
+root vegetables,whipped/sour cream,pip fruit
+root vegetables,yogurt,pastry
+root vegetables,yogurt,pip fruit
+root vegetables,pastry,pip fruit
+sausage,tropical fruit,whipped/sour cream
+sausage,tropical fruit,yogurt
+sausage,tropical fruit,pastry
+sausage,tropical fruit,pip fruit
+sausage,whipped/sour cream,yogurt
+sausage,whipped/sour cream,pastry
+sausage,whipped/sour cream,pip fruit
+sausage,yogurt,pastry
+sausage,yogurt,pip fruit
+sausage,pastry,pip fruit
+tropical fruit,whipped/sour cream,yogurt
+tropical fruit,whipped/sour cream,pastry
+tropical fruit,whipped/sour cream,pip fruit
+tropical fruit,yogurt,pastry
+tropical fruit,yogurt,pip fruit
+tropical fruit,pastry,pip fruit
+whipped/sour cream,yogurt,pastry
+whipped/sour cream,yogurt,pip fruit
+whipped/sour cream,pastry,pip fruit
+yogurt,pastry,pip fruit
